@@ -7,7 +7,6 @@ using namespace std;
 
 #define OFFSET 17
 #define MINUTES 60
-#define NUM_DIGITOS_AVION 4
 #define NUM_MAX_PASSENGERS 500
 #define NUM_AIRLINES 6
 
